@@ -3,7 +3,7 @@
 1. Clone the repository:
 ```console
 git clone https://github.com/geekygavesh/Quickai.git
-cd QuickAI
+cd Quickai
 ```
 
 2. Install client dependencies:
