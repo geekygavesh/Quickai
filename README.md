@@ -2,7 +2,7 @@
 
 1. Clone the repository:
 ```console
-git clone https://github.com/elyse502/QuickAI.git
+git clone https://github.com/geekygavesh/Quickai.git
 cd QuickAI
 ```
 
