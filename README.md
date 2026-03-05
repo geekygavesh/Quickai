@@ -21,7 +21,7 @@ cd ../server && npm install
 **Client (.env)**
 ```console
 VITE_CLERK_PUBLISHABLE_KEY=pk_test_...
-VITE_API_BASE_URL=http://localhost:3000
+VITE_API_BASE_URL=http://localhost:5173
 ```
 
 **Server (.env)**
@@ -32,7 +32,7 @@ CLOUDINARY_API_KEY=your-api-key
 CLOUDINARY_API_SECRET=your-api-secret
 DATABASE_URL=your-postgres-connection-string
 CLERK_SECRET_KEY=sk_test_...
-PORT=5000
+PORT=3000
 ```
 
 4. Start the development servers:
